@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build src/index.html --public-url /AsesorMan/"
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
